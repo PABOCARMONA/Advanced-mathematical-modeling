@@ -57,7 +57,7 @@ This repository brings **theoretical mathematics to real scientific applications
 
 ## 📂 Explore the Repository
 
-* 🧠 **[Neural ODEs](./Neural_ODEs)** — Continuous-depth neural networks blending differential equations with deep learning.
+* 🧠 **[Neural ODEs](./NeuralODEs)** — Continuous-depth neural networks blending differential equations with deep learning.
 ---
 
 ## 🛠️ Skills & Tech Stack
