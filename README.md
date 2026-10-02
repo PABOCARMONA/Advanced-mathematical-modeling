@@ -21,14 +21,9 @@
 
 ## 👨‍🎓 About Me
 
-I am a **Mathematics graduate** currently pursuing a **Master's degree in Mathematics**. My academic path is driven by a strong interest in the interplay between rigorous theory and computational methods, with a particular focus on **mathematical analysis and modeling**.
+I am a **Mathematics graduate** currently pursuing a **Master's degree in Mathematics**. My academic path is driven by a strong interest in the interplay between rigorous theory and computational methods, with a particular focus on **mathematical analysis and modeling**. 
 
 Looking ahead, I intend to pursue an **international double master's degree** specialized in analysis and modeling, with the goal of building a solid foundation for research in applied mathematics and scientific computing.
-
-- 🎓 **Background:** BSc in Mathematics
-- 📚 **Currently:** MSc in Mathematics
-- 🌍 **Next step:** International double master's in analysis and modeling
-- 🔬 **Interests:** Dynamical systems, differential equations, optimization, stochastic calculus
 
 ---
 
@@ -47,7 +42,7 @@ This repository brings **theoretical mathematics to real scientific applications
 
 ### ✨ What to Expect from Each Project
 
-> Every project includes **both** the rigorous mathematical context and justification needed to understand it, **and** a complete code implementation.
+ Every project includes **both** the rigorous mathematical context and justification needed to understand it, **and** a complete code implementation.
 
 - 📖 **Mathematical foundations:** problem statement, assumptions, theory, and justification of the model.
 - 💻 **Implementation:** reproducible code, primarily in **Python, MATLAB, FreeFEM++, Wolfram Mathematica, or R**.
