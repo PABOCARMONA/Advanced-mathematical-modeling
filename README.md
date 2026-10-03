@@ -53,6 +53,7 @@ This repository brings **theoretical mathematics to real scientific applications
 ## 📂 Explore the Repository
 
 * 🧠 **[Neural ODEs](./NeuralODEs)** — Continuous-depth neural networks blending differential equations with deep learning.
+* 📡 **[Filtering Problems](./StochasticFilteringProblem)** — Optimal state estimation in stochastic systems using continuous Kalman-Bucy and Particle filters.
 ---
 
 ## 🛠️ Skills & Tech Stack
